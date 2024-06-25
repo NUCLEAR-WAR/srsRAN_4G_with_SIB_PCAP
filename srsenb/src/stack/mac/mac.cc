@@ -32,7 +32,7 @@
 #include "srsran/interfaces/enb_rrc_interface_mac.h"
 #include "srsran/srslog/event_trace.h"
 
-// #define WRITE_SIB_PCAP
+#define WRITE_SIB_PCAP
 using namespace asn1::rrc;
 
 namespace srsenb {
